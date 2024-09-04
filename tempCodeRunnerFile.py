@@ -1,6 +1,3 @@
-#Dita Annisa Diningtyas - 2210511169
-#Informatika - D
-
 from tkinter import *
 beginning=Tk()
 beginning.title('TUGAS KELOMPOK PRAKTIKUM ALGORITMA DAN Pemrograman I')
